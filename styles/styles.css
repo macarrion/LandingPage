@@ -1,0 +1,96 @@
+
+
+body {
+    background: url(../images/IMG-9121.jpg);
+}
+
+body.two {
+    background: url(../images/b2.png);
+}
+
+body.three {
+    background: url(../images/b1.png);
+}
+
+h4 {
+            font-size: 36px;
+            color: white;
+            background-color: black;
+            opacity: 0.75;
+            width: 550px;
+}
+
+p.one {
+    font-size: 30px;
+    color: darkblue;;
+    width: 450px;
+}
+
+p.two {
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    opacity: 0.75;
+    width: 250px;
+}
+
+p.three {
+    font-size: 30px;
+    color: darkblue;
+    margin-left: 400px;
+    width: 750px;
+    font-family: Comic Sans MS;
+}
+
+div.container {
+    display: flex;
+    margin-left: 300px;
+}
+
+div.container1 {
+    display: flex;
+    margin-left: 325px;
+    color: darkblue;
+}
+
+div.h1 {
+    font-size: 30px;
+    color: white;
+    font-family: Arial;
+    padding: 1px;
+    margin-top: 610px;
+    margin-left: 120px;
+}
+
+div.h2 {
+    font-size: 60px;
+    color: darkblue;
+    font-family: Comic Sans MS;;
+    margin-left: 550px;
+}
+
+div.h3 {
+    font-size: 30px;
+    color: white;
+    font-family: Arial;
+    padding: 1px;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+div.b1 {
+    height: 1500px;
+    width: 200px;
+    background-color: darkblue;
+    margin-left: 650px;
+    margin-left: 650px;
+}
+
+
+ul {
+            font-size: 18px;
+            color: white;
+            opacity: 0.75;
+            background-color: black;
+            width: 600px;
+}
